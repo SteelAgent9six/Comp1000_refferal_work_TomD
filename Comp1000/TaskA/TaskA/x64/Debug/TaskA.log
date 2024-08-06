@@ -1,0 +1,3 @@
+﻿  TaskA.cpp
+C:\Users\thoma\source\repos\summer work\Comp1000\TaskA\TaskA\TaskA.cpp(73,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TaskA.vcxproj -> C:\Users\thoma\source\repos\summer work\Comp1000\TaskA\x64\Debug\TaskA.exe
